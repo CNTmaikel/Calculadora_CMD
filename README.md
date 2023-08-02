@@ -1,2 +1,3 @@
 # Calculadora_CMD
-Una calculadora senzilla a la terminal
+Aquest programa és una calculadora senzilla a la terminal.
+El que m'agrada d'aquesta calculadora es que la vaig fer a classe de català.
